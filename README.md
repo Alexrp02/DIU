@@ -1,8 +1,8 @@
 # DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Grupo: DIU3_MotrilCF.  Curso: 2023/24 
+Updated: 23/3/2024
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,14 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Victior Mojica González    :octocat:     
+ * :bust_in_silhouette:   Alejandro Ramos Peña      :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -33,7 +29,7 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+El proyecto Granada Aventura busca ofrecer actividades al aire libre en la región de Granada. El objetivo del plan de investigación es evaluar la proximidad del usuario y la usabilidad de la aplicación, así como identificar posibles desafíos y comodidades que los usuarios encuentren al utilizarla. Los objetivos de negocio incluyen la reducción del impacto del COVID-19 en el turismo local y garantizar la seguridad en todas las actividades. Los criterios de éxito del estudio abarcan la recopilación de información cualitativa y cuantitativa de los usuarios, la creación de documentos como perfiles de usuario ficticios y la toma de decisiones basada en los hallazgos del estudio. Los métodos de investigación primaria incluyen etnografía, entrevistas de usuario, investigación contextual, pruebas de usabilidad y encuestas posteriores a la sesión. Se enfocará en temas como la duración y el precio de las actividades, así como en la utilidad, facilidad de aprendizaje, memorabilidad, errores y satisfacción del diseño. La selección de participantes se orientará hacia jóvenes, entusiastas del deporte y amantes de la aventura.  
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
