@@ -37,7 +37,8 @@ El proyecto Granada Aventura busca ofrecer actividades al aire libre en la regi�
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
 
 ![Método UX](img/Persona.png) 1.c Persona
------
+Leticia Brown
+(img/1b_Persona2.png)
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
 
