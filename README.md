@@ -15,7 +15,7 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Victior Mojica González    :octocat:     
+ * :bust_in_silhouette:   Victor Mojica González    :octocat:     
  * :bust_in_silhouette:   Alejandro Ramos Peña      :octocat:
 
 ----- 
@@ -27,35 +27,38 @@ Miembros
 
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
------
 
-El proyecto Granada Aventura busca ofrecer actividades al aire libre en la región de Granada. El objetivo del plan de investigación es evaluar la proximidad del usuario y la usabilidad de la aplicación, así como identificar posibles desafíos y comodidades que los usuarios encuentren al utilizarla. Los objetivos de negocio incluyen la reducción del impacto del COVID-19 en el turismo local y garantizar la seguridad en todas las actividades. Los criterios de éxito del estudio abarcan la recopilación de información cualitativa y cuantitativa de los usuarios, la creación de documentos como perfiles de usuario ficticios y la toma de decisiones basada en los hallazgos del estudio. Los métodos de investigación primaria incluyen etnografía, entrevistas de usuario, investigación contextual, pruebas de usabilidad y encuestas posteriores a la sesión. Se enfocará en temas como la duración y el precio de las actividades, así como en la utilidad, facilidad de aprendizaje, memorabilidad, errores y satisfacción del diseño. La selección de participantes se orientará hacia jóvenes, entusiastas del deporte y amantes de la aventura.  
+El proyecto Granaventour busca ofrecer actividades al aire libre en la región de Granada. El objetivo del plan de investigación es evaluar la proximidad del usuario y la usabilidad de la aplicación, así como identificar posibles desafíos y comodidades que los usuarios encuentren al utilizarla. Los objetivos de negocio incluyen la reducción del impacto del COVID-19 en el turismo local y garantizar la seguridad en todas las actividades. Los criterios de éxito del estudio abarcan la recopilación de información cualitativa y cuantitativa de los usuarios, la creación de documentos como perfiles de usuario ficticios y la toma de decisiones basada en los hallazgos del estudio. Los métodos de investigación primaria incluyen etnografía, entrevistas de usuario, investigación contextual, pruebas de usabilidad y encuestas posteriores a la sesión. Se enfocará en temas como la duración y el precio de las actividades, así como en la utilidad, facilidad de aprendizaje, memorabilidad, errores y satisfacción del diseño. La selección de participantes se orientará hacia jóvenes, entusiastas del deporte y amantes de la aventura.  
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
------
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+(link competitive analisis) Después de un analisis exhaustivo de algunas empresas que ofrecen actividades deportivas en la naturaleza tanto en Granada como de fuera, hemos llegado a la conclusión de que GranaVentour no es una buena opción para disfrutar de una de sus actividades. Esto se debe principalmente a la falta de información y errores que hay en su página. Ademas de la dificultad que hay para contactar con ellos. En este analisis competitivo se han comparado Nevadensis y GuiasBoira y por muy poco la mejor opcion es Nevadensis. Nevadenis a diferencia de GranaVentour ofrece una pagina web atractiva y responsive con una gran variedad de actividades, para contactar con ellos es muy fácil y rápido. Tanto Nevandendis como Guias Boira disponen de mucha informacion sobre sus actividades (temporada verano/invierno), sin embargo Guias Boira tiene una mejor distinción de niveles. A pesar de esto Nevadensis es la mejor opción ya que tiene una gran galería de fotografias en alta definición y una barra de búsqueda que no tienen ni GranaVentour ni Guias Boira que hace que usuario pueda buscar la actividad segun sus necesidades. Ante cualquier duda siempre estan activos en redes sociales, en cambio Granaventour tiene su ultima publicación hace 6 años.
 
 ![Método UX](img/Persona.png) 1.c Persona
+El otro ha sido seleccionado ...
 
+Foto del otro
+
+Hemos seleccionado a Leticia Brown porque es una mujer aventurera amante del deporte y de la naturaleza, además de esto vivió en Granada durante 9 meses y conoce la ciudad y algo del idioma.
 
 ![Leticia Brown](img/1b_Persona2.png)
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
-----
+
+(link user exp del otro) Explicacion de la situacion
+
+(link user Letcica Brwon) Leticia vuelve a Granada a recordar sus viejos tiempos en la ciudad que estuvo de erasmus 9 meses y decide encontrar una actividad para pasar un tiempo en la naturaleza y hacer deporte a la misma vez. Leticia encontró por internet la pagina de Granaventour y reservo una actividad de senderismo.
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Valoración final (numérica): 45 POOR
+>>> - Comentario sobre la valoración: Granaventour deja mucho que desear como página de actividades, no resuelve nada al cliente, falta mucha información y al final tienes que terminar llamando para informarte y realizar la reserva. Además no tienen las redes sociales activas y la página web no llama nada la atencion a los posibles clientes. Con la mejora de la página web, incluison de funciones como barra de busqueda, inserccion de videos o la posibilidad de reserva online podria mejorar exponencialmente. Como conclusión Granaventour tiene una propuesta con mucho potencial pero no está nada aprovechada y hace que mucha gente busque otras altyernativas como Nevadensis (estudiada anteriormente)
+
 
 
 ## Paso 2. UX Design  
