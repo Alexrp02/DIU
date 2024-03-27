@@ -55,9 +55,9 @@ Hemos seleccionado a Leticia Brown porque es una mujer aventurera amante del dep
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 45 POOR
->>> - Comentario sobre la valoración: Granaventour deja mucho que desear como página de actividades, no resuelve nada al cliente, falta mucha información y al final tienes que terminar llamando para informarte y realizar la reserva. Además no tienen las redes sociales activas y la página web no llama nada la atencion a los posibles clientes. Con la mejora de la página web, incluison de funciones como barra de busqueda, inserccion de videos o la posibilidad de reserva online podria mejorar exponencialmente. Como conclusión Granaventour tiene una propuesta con mucho potencial pero no está nada aprovechada y hace que mucha gente busque otras altyernativas como Nevadensis (estudiada anteriormente)
+- Enlace al documento:  (sube a github el xls/pdf) 
+- Valoración final (numérica): 45 POOR
+- Comentario sobre la valoración: Granaventour deja mucho que desear como página de actividades, no resuelve nada al cliente, falta mucha información y al final tienes que terminar llamando para informarte y realizar la reserva. Además no tienen las redes sociales activas y la página web no llama nada la atencion a los posibles clientes. Con la mejora de la página web, incluison de funciones como barra de busqueda, inserccion de videos o la posibilidad de reserva online podria mejorar exponencialmente. Como conclusión Granaventour tiene una propuesta con mucho potencial pero no está nada aprovechada y hace que mucha gente busque otras altyernativas como Nevadensis (estudiada anteriormente)
 
 
 
