@@ -32,12 +32,12 @@ El proyecto Granaventour busca ofrecer actividades al aire libre en la región d
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 
-(link competitive analisis) Después de un analisis exhaustivo de algunas empresas que ofrecen actividades deportivas en la naturaleza tanto en Granada como de fuera, hemos llegado a la conclusión de que GranaVentour no es una buena opción para disfrutar de una de sus actividades. Esto se debe principalmente a la falta de información y errores que hay en su página. Ademas de la dificultad que hay para contactar con ellos. En este analisis competitivo se han comparado Nevadensis y GuiasBoira y por muy poco la mejor opcion es Nevadensis. Nevadenis a diferencia de GranaVentour ofrece una pagina web atractiva y responsive con una gran variedad de actividades, para contactar con ellos es muy fácil y rápido. Tanto Nevandendis como Guias Boira disponen de mucha informacion sobre sus actividades (temporada verano/invierno), sin embargo Guias Boira tiene una mejor distinción de niveles. A pesar de esto Nevadensis es la mejor opción ya que tiene una gran galería de fotografias en alta definición y una barra de búsqueda que no tienen ni GranaVentour ni Guias Boira que hace que usuario pueda buscar la actividad segun sus necesidades. Ante cualquier duda siempre estan activos en redes sociales, en cambio Granaventour tiene su ultima publicación hace 6 años.
+![Competitive Analisis](p1/Desk research.pdf) Después de un analisis exhaustivo de algunas empresas que ofrecen actividades deportivas en la naturaleza tanto en Granada como de fuera, hemos llegado a la conclusión de que GranaVentour no es una buena opción para disfrutar de una de sus actividades. Esto se debe principalmente a la falta de información y errores que hay en su página. Ademas de la dificultad que hay para contactar con ellos. En este analisis competitivo se han comparado Nevadensis y GuiasBoira y por muy poco la mejor opcion es Nevadensis. Nevadenis a diferencia de GranaVentour ofrece una pagina web atractiva y responsive con una gran variedad de actividades, para contactar con ellos es muy fácil y rápido. Tanto Nevandendis como Guias Boira disponen de mucha informacion sobre sus actividades (temporada verano/invierno), sin embargo Guias Boira tiene una mejor distinción de niveles. A pesar de esto Nevadensis es la mejor opción ya que tiene una gran galería de fotografias en alta definición y una barra de búsqueda que no tienen ni GranaVentour ni Guias Boira que hace que usuario pueda buscar la actividad segun sus necesidades. Ante cualquier duda siempre estan activos en redes sociales, en cambio Granaventour tiene su ultima publicación hace 6 años.
 
 ![Método UX](img/Persona.png) 1.c Persona
-El otro ha sido seleccionado ...
+Guillermo ha sido seleccionado porque tiene  una hija que le gusta mucho hacer excurisones por la montña, admemás vive en Málaga y le gusta mucho visitar Granada siempre que puede.
 
-Foto del otro
+![Guillermo Flores](img/1b_Persona1.png)
 
 Hemos seleccionado a Leticia Brown porque es una mujer aventurera amante del deporte y de la naturaleza, además de esto vivió en Granada durante 9 meses y conoce la ciudad y algo del idioma.
 
@@ -47,15 +47,16 @@ Hemos seleccionado a Leticia Brown porque es una mujer aventurera amante del dep
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 
-(link user exp del otro) Explicacion de la situacion
+[Journey Map Guillermo](img/1c_JourneyMap1.png) Guillermo como ha hecho alguna otra vez, quiere hacer una reserva para ir con su hija y a su mejor amiga a una actividad de escalada. Alguna vez ha reservado en la 
+página pero nunca ha hecho de escalada y se atreve por primera vez ya que a su hija le hace mucha ilusión.
 
-(link user Letcica Brwon) Leticia vuelve a Granada a recordar sus viejos tiempos en la ciudad que estuvo de erasmus 9 meses y decide encontrar una actividad para pasar un tiempo en la naturaleza y hacer deporte a la misma vez. Leticia encontró por internet la pagina de Granaventour y reservo una actividad de senderismo.
+[Journey Map Leticia](img/1c_JourneyMap2.png) Leticia vuelve a Granada a recordar sus viejos tiempos en la ciudad que estuvo de erasmus 9 meses y decide encontrar una actividad para pasar un tiempo en la naturaleza y hacer deporte a la misma vez. Leticia encontró por internet la pagina de Granaventour y reservo una actividad de senderismo.
 
 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
-- Enlace al documento:  (sube a github el xls/pdf) 
+- Enlace al documento:  [Usability Review](p1/Usability-review-Granaventour.xlsx - Usability scores.pdf) 
 - Valoración final (numérica): 45 POOR
 - Comentario sobre la valoración: Granaventour deja mucho que desear como página de actividades, no resuelve nada al cliente, falta mucha información y al final tienes que terminar llamando para informarte y realizar la reserva. Además no tienen las redes sociales activas y la página web no llama nada la atencion a los posibles clientes. Con la mejora de la página web, incluison de funciones como barra de busqueda, inserccion de videos o la posibilidad de reserva online podria mejorar exponencialmente. Como conclusión Granaventour tiene una propuesta con mucho potencial pero no está nada aprovechada y hace que mucha gente busque otras altyernativas como Nevadensis (estudiada anteriormente)
 
