@@ -79,7 +79,7 @@ página pero nunca ha hecho de escalada y se atreve por primera vez ya que a su 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-![Scope Canvas]("P2/Scope%20Canvas")
+![Scope Canvas]("P2/Scope%20Canvas.png")
 >>> Propuesta de valor 
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
