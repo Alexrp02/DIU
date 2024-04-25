@@ -92,7 +92,7 @@ página pero nunca ha hecho de escalada y se atreve por primera vez ya que a su 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 ![Sitemap](P2/arquitectura_informacion.png)
-![Labelling](P2/labelling.png")
+![Labelling](P2/labelling.png)
 
 >>> Identificar términos para diálogo con usuario  
 
