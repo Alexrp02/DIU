@@ -68,9 +68,6 @@ página pero nunca ha hecho de escalada y se atreve por primera vez ya que a su 
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
 ![Malla receptora](P2/Malla_receptora.png)
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
@@ -82,7 +79,7 @@ página pero nunca ha hecho de escalada y se atreve por primera vez ya que a su 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-![Scope Canvas]("P2/Scope Canvas")
+![Scope Canvas]("P2/Scope%20Canvas")
 >>> Propuesta de valor 
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
