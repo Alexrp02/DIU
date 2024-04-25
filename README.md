@@ -13,7 +13,7 @@ Una página web que permite a usuarios conectar con otros jugadores de juegos de
 
 Logotipo: 
 
-![Logo WeBoard](img/weboardlogo.jpg)
+<img src="img/weboardlogo.jpg" width=200>
 
 Miembros
  * :bust_in_silhouette:   Victor Mojica González    :octocat:     
