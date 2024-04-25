@@ -71,9 +71,7 @@ página pero nunca ha hecho de escalada y se atreve por primera vez ya que a su 
 ![Malla receptora](P2/Malla_receptora.png)
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Vimos un problema para los jugadores de juegos de mesa los cuales quieren jugar muy a menudo. Normalmente tienen que quedar con sus amigos y no siempre pueden estar disponibles entre ellos para jugar muy a menudo, por lo que pensamos que una solución a esto sería crear una plataforma que permitiera a estos jugadores hacer quedadas con otros jugadores desconocidos para jugar juntos. De esta manera, creamos comunidades de jugadores que pueden jugar más habitualmente y les permite disfrutar más aún de sus juegos y conocer gente nueva con sus mismos gustos.
 
 
 
