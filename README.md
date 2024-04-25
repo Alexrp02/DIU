@@ -5,14 +5,14 @@ Grupo: DIU3_MotrilCF.  Curso: 2023/24
 Updated: 23/3/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+WeBoard
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Una página web que permite a usuarios conectar con otros jugadores de juegos de mesa y hacer quedadas para poder jugar y competir en sus juegos de mesa favoritos.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+[Logo WeBoard](img/weboardlogo.jpg)
 
 Miembros
  * :bust_in_silhouette:   Victor Mojica González    :octocat:     
