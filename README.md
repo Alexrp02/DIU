@@ -12,7 +12,8 @@ Descripción:
 Una página web que permite a usuarios conectar con otros jugadores de juegos de mesa y hacer quedadas para poder jugar y competir en sus juegos de mesa favoritos.
 
 Logotipo: 
-[Logo WeBoard](img/weboardlogo.jpg)
+
+![Logo WeBoard](img/weboardlogo.jpg)
 
 Miembros
  * :bust_in_silhouette:   Victor Mojica González    :octocat:     
