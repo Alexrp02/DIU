@@ -79,20 +79,20 @@ página pero nunca ha hecho de escalada y se atreve por primera vez ya que a su 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-![Scope Canvas]("P2/Scope%20Canvas.png")
+![Scope Canvas](P2/Scope%20Canvas.png)
 >>> Propuesta de valor 
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
-![Task analysis]("P2/task_analysis.png")
-![User flow]("P2/user_flow.png")
+![Task analysis](P2/task_analysis.png)
+![User flow](P2/user_flow.png)
 >>> Definir "User Map" y "Task Flow" ... 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-![Sitemap]("P2/arquitectura_informacion.png")
-![Labelling]("P2/labelling.png")
+![Sitemap](P2/arquitectura_informacion.png)
+![Labelling](P2/labelling.png")
 
 >>> Identificar términos para diálogo con usuario  
 
