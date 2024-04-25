@@ -68,14 +68,10 @@ página pero nunca ha hecho de escalada y se atreve por primera vez ya que a su 
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
-  
+![Malla receptora](P2/Malla_receptora.png)
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
@@ -86,17 +82,20 @@ página pero nunca ha hecho de escalada y se atreve por primera vez ya que a su 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
+![Scope Canvas]("P2/Scope Canvas")
 >>> Propuesta de valor 
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
-
+![Task analysis]("P2/task_analysis.png")
+![User flow]("P2/user_flow.png")
 >>> Definir "User Map" y "Task Flow" ... 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
+![Sitemap]("P2/arquitectura_informacion.png")
+![Labelling]("P2/labelling.png")
 
 >>> Identificar términos para diálogo con usuario  
 
