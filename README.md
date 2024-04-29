@@ -13,7 +13,7 @@ Una página web que permite a usuarios conectar con otros jugadores de juegos de
 
 Logotipo: 
 
-<img src="img/weboardlogo.jpg" width=200>
+<img src="img/logo.jpg" width=200>
 
 Miembros
  * :bust_in_silhouette:   Victor Mojica González    :octocat:     
@@ -111,7 +111,7 @@ Término | Significado
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-
+![MoodBoard](P3/moodBoard.png)
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
