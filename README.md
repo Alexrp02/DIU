@@ -124,12 +124,12 @@ Término | Significado
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+![Imagen de la landing page](P3/landing-page.png)
 
 >>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
