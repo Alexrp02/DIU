@@ -102,8 +102,11 @@ Término | Significado
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+### Vista para pc
+![Wireframe para la vista de pc](P2/indexPC.png)
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+### Vista para móvil
+![Wireframe para la vista de móvil](P2/indexMOVIL.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
