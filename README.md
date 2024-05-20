@@ -130,6 +130,7 @@ Término | Significado
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+![Imagen de los guidelines](P3/guidelines.png)
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
