@@ -132,7 +132,9 @@ Término | Significado
 ----
 ![Imagen de los guidelines](P3/guidelines.png)
 >>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+Para los patrones de nuestra aplicación hemos hecho uso de los componentes que nos ofrece material design, pues nos ha facilitado el integrar los distintos patrones de diseño en nuestra aplicación.
+Además del uso de material design para elementos como son las tarjetas, la introduccion de datos tanto en búsqueda como login y demás hemos creado algunos nosotros mismos como pueden ser la barra de navegación la cual quisimos que contara con un elemento destacado que es el de crear una publicación y los modales que usamos para mostrar la información sobre eventos, competiciones, comunidades...
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
