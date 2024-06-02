@@ -137,58 +137,35 @@ Para los patrones de nuestra aplicación hemos hecho uso de los componentes que 
 Además del uso de material design para elementos como son las tarjetas, la introduccion de datos tanto en búsqueda como login y demás hemos creado algunos nosotros mismos como pueden ser la barra de navegación la cual quisimos que contara con un elemento destacado que es el de crear una publicación y los modales que usamos para mostrar la información sobre eventos, competiciones, comunidades...
 
 ![Método UX](img/mockup.png)  3.d Mockup
->>> A continuacion de muestran las partes más importantes del Mockup
+A continuacion de muestran las partes más importantes del Mockup
 ![Actividades](P3/Actividades.png)
-![Login](P3/Login-1.png.png)
+![Login](P3/Login-1.png)
 ![Torneos](P3/Torneos.png)
-![Index](P3/Main page.png)
+![Index](<P3/Main page.png>)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
->>> Se ha publicado el archivo figma en el repositorio de DIU  de figma y un resumen en las partes posteriores de README
-
-
-## Paso 5. Exportación & evaluación con Eye Tracking 
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
-
+Se ha publicado el archivo figma en el repositorio de DIU  de figma y un resumen en las partes posteriores de README
 
 ## Paso 4. Evaluación 
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
->>> Se nos ha asignado analizar la aplicacion de DIU1-loqueteapetezca, que trata sobre juegos de mesa, como nuestra aplicación. El enlace al repositorio es: (https://github.com/DIU1-loqueteapetezca/DIU)
->>> 
+Se nos ha asignado analizar la aplicacion de DIU1-loqueteapetezca, que trata sobre juegos de mesa, como nuestra aplicación. El enlace al repositorio es: (https://github.com/DIU1-loqueteapetezca/DIU)
+
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
->>> Para esta parte se han seleccionado 4 usuarios reales para el caso A y B:
+Para esta parte se han seleccionado 4 usuarios reales para el caso A y B:
 Para el caso A se han seleccionado:
-    -User1: Mujer de 23 años de edad que trabaja de higienista y con alguna experiencia con tecnologías.Usa el móvil y el portátil casi a diario, aunque le cuesta encontrar las cosas a veces en las páginas.
-    -User2: Hombre de 20 años que trabaja de peluquero, su formacion con tecnologias es básica. No usa dispositivos electronicos excepto el movil. Le cuesta encontrar las cosas.
+    -User1: 
+        Mujer de 23 años de edad que trabaja de higienista y con alguna experiencia con tecnologías.Usa el móvil y el portátil casi a diario, aunque le cuesta encontrar las cosas a veces en las páginas.
+    -User2: 
+        Hombre de 20 años que trabaja de peluquero, su formacion con tecnologias es básica. No usa dispositivos electronicos excepto el movil. Le cuesta encontrar las cosas.
 Para el caso B se han seleccionado:
-    -User3: Hombe de 42 años, padre de familia que se dedica a la fotografia. Sabe utlizar las tecnologias más básicas que invlucran su trabajo.
-    -User4: Hombre de 24 años, estudiante ingenieria indormatica y con amplios conocimientos avanzados en el mundo de la tecnología.
+    -User3: 
+        Hombe de 42 años, padre de familia que se dedica a la fotografia. Sabe utlizar las tecnologias más básicas que invlucran su trabajo.
+    -User4: 
+        Hombre de 24 años, estudiante ingenieria indormatica y con amplios conocimientos avanzados en el mundo de la tecnología.
 
  
 
@@ -203,13 +180,11 @@ Para el caso B se han seleccionado:
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Para evaluar la satisfacción de los usuarios con el diseño y llevar a cabo pruebas A/B, utilizaremos el cuestionario SUS, que incluye 10 preguntas. Cada una se valora en una escala del 1 al 5 para medir el grado de satisfacción y usabilidad del sitio web. Una vez recopilados los cuestionarios de los usuarios, emplearemos una hoja de cálculo proporcionada para calcular una puntuación numérica basada en el cuestionario SUS.
+Para evaluar la satisfacción de los usuarios con el diseño y llevar a cabo pruebas A/B, utilizaremos el cuestionario SUS, que incluye 10 preguntas. Cada una se valora en una escala del 1 al 5 para medir el grado de satisfacción y usabilidad del sitio web. Una vez recopilados los cuestionarios de los usuarios, emplearemos una hoja de cálculo proporcionada para calcular una puntuación numérica basada en el cuestionario SUS.
 
-Después de calcular la puntuación numérica del cuestionario SUS, podremos usarla para obtener una medida cuantitativa de la satisfacción y usabilidad de la app. Esta puntuación nos permitirá comparar diferentes diseños o variantes y determinar cuál tiene un mayor impacto positivo en la experiencia del usuario. A continuación, se presentan los resultados de los usuarios al completar el cuestionario SUS. Si se desea ver la hoja de cálculos con más detalle, dejamos el enlace aquí: ![Resultado](P4/SADSA).
+Después de calcular la puntuación numérica del cuestionario SUS, podremos usarla para obtener una medida cuantitativa de la satisfacción y usabilidad de la app. Esta puntuación nos permitirá comparar diferentes diseños o variantes y determinar cuál tiene un mayor impacto positivo en la experiencia del usuario. A continuación, se presentan los resultados de los usuarios al completar el cuestionario SUS. Si se desea ver la hoja de cálculos con más detalle, dejamos el enlace aquí: ![Resultado](P4/CuestionarioSUSDIU.xlsx).
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal
-
-Usuario 1
+- Usuario 1
 Puntuación Final: 77.5
 Resumen:
 El Usuario 1 tuvo una experiencia positiva con el sitio web.
@@ -217,7 +192,7 @@ Destacó la facilidad de uso y la integración de las funciones.
 Sintió que el sitio era un poco grande para recorrerlo.
 Mencionó que necesitaría algún apoyo adicional para navegarlo completamente.
 >>>
-Usuario 2
+- Usuario 2
 Puntuación Final: 75
 Resumen:
 El Usuario 2 mostró una satisfacción considerable con el sitio web.
@@ -225,7 +200,7 @@ Encontró el sitio fácil de usar y confió en su manejo.
 Identificó ciertas inconsistencias.
 Mencionó que encontró el sitio un tanto complejo.
 >>>
-Usuario 3
+- Usuario 3
 Puntuación Final: 67.5
 Resumen:
 El Usuario 3 tuvo una experiencia menos favorable en comparación con los anteriores.
@@ -234,7 +209,7 @@ Consideró que tenía demasiadas inconsistencias.
 No se sintió muy confiado en su manejo.
 Mencionó la necesidad de aprender más para usar el sitio adecuadamente.
 >>>
-Usuario 4
+- Usuario 4
 Puntuación Final: 80
 Resumen:
 El Usuario 4 mostró la mayor satisfacción con el sitio web.
@@ -245,53 +220,63 @@ Mencionó la necesidad de aprender algunas cosas antes de manejarlo completament
 Conclusiones Generales
 Las puntuaciones obtenidas indican una tendencia positiva hacia la usabilidad y satisfacción del sitio web. La mayoría de los usuarios destacaron aspectos positivos como la facilidad de uso y la integración de las funciones. Sin embargo, algunos usuarios señalaron áreas de mejora, como la complejidad y la necesidad de apoyo adicional para navegar el sitio. Estos comentarios pueden ser utilizados para hacer ajustes y mejoras en el diseño para aumentar la satisfacción general.
 >>>
-![Imagen SUS](P4/susResult.png).
+!(P4/susResult.png).
 
 
-![Método UX](img/usability-report.png) 4.d Usability Report
+!(img/usability-report.png) 4.d Usability Report
 
-A partir de la información recopilada, se ha elaborado un informe de usabilidad para el caso B. Para acceder al informe completo, haz clic en el siguiente enlace. El objetivo del informe es proporcionar una visión objetiva y basada en evidencia sobre la calidad y eficacia del diseño del caso B, además de ofrecer recomendaciones para ajustes y mejoras que optimicen la experiencia del usuario.
+A partir de la información recopilada, se ha elaborado un informe de usabilidad para el caso B. Para acceder al informe completo, haz clic en el siguiente enlace. ![Usability Report](<P4/Usabilityreviewtemplate.xlsx>).
+El objetivo del informe es proporcionar una visión objetiva y basada en evidencia sobre la calidad y eficacia del diseño del caso B, además de ofrecer recomendaciones para ajustes y mejoras que optimicen la experiencia del usuario.
 
 >>> Valoración personal
->>>
+>>> 
 El informe de usabilidad para el Caso B proporciona una evaluación detallada y bien estructurada sobre la eficacia del diseño y la experiencia del usuario. A continuación, se presentan algunas observaciones personales basadas en los resultados obtenidos:
 
-Claridad y Eficacia del Diseño Inicial:
+- Claridad y Eficacia del Diseño Inicial:
 Aspecto Positivo: El home page o página de inicio fue valorada de manera positiva en términos de ser efectiva y presentar la información de manera clara.
 Aspecto a Mejorar: Hubo algunas evaluaciones moderadas indicando que aunque el diseño inicial es útil, podría beneficiarse de una mayor claridad y organización.
 
-Navegación:
+- Navegación:
 Aspecto Positivo: Los usuarios encontraron que el esquema de navegación es generalmente fácil de usar, con menús accesibles y claros.
 Aspecto a Mejorar: Algunos comentarios sugieren que la flexibilidad de la navegación puede mejorar, ya que no todos los usuarios encontraron suficiente versatilidad en las opciones de navegación.
 
-Integración y Funcionalidad:
+- Integración y Funcionalidad:
 Aspecto Positivo: La mayoría de los enlaces y funciones del sitio están bien integrados y etiquetados de manera descriptiva, facilitando una experiencia fluida.
 Aspecto a Mejorar: La indicación de la ubicación actual dentro del sitio puede ser más clara. Algunos usuarios expresaron que no siempre sabían en qué parte del sitio se encontraban, lo que puede llevar a confusión.
 
-Confianza y Consistencia:
+- Confianza y Consistencia:
 Aspecto Positivo: Los usuarios se sintieron generalmente confiados al manejar el sitio, lo que refleja una buena usabilidad y una curva de aprendizaje no muy pronunciada.
 Aspecto a Mejorar: Se identificaron inconsistencias dentro del sitio que podrían ser abordadas para mejorar la experiencia del usuario. Estas inconsistencias pueden afectar la confianza de los usuarios en ciertos momentos.
 En resumen, el diseño del Caso B muestra una base sólida en términos de usabilidad, pero hay áreas específicas que, si se mejoran, podrían llevar a una experiencia de usuario más coherente y satisfactoria. Las recomendaciones proporcionadas en el informe ofrecen una guía clara para realizar estos ajustes, asegurando que el sitio no solo sea fácil de usar, sino también eficiente y agradable para los usuarios. ​
+>>>
+>>>
+
+## 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
+
+EYE TRACKING:
+    Despues de someter a una prueba de EyeTracking a carios usuarios estos son los resultados.
+    LINK (P4/ResultadosEyeTracking.pdf)
+    Gracias al Eyetracking podemos ver que es lo que más llama la atencion a los usuarios. ¿Que es lo primero en lo que se fijan? Esto nos puede ayudar con el desarrollo y diseño de la app.
 
 
-5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
-----
+A/B Testing:
+    La utilización de técnicas como el A/B testing proporciona una visión integral y profunda de la experiencia del usuario. El A/B testing permitió comparar dos variantes del diseño.
+    De forma que ves la diferencias negativas/positivas entre dos propuestas.
+    Las puntuaciones del cuestionario SUS también nos facilitan estos datos y nos permite decir que propuesta es más optima.
 
+USABILITY REPORT:
+    Finalmente, el informe de usabilidad nos enseñó a interpretar y utilizar datos cualitativos y cuantitativos para realizar mejoras concretas. Nos permite saber los puntos debiles y fuertes de nuestro diseño.
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
-
-
-
+CONCLUSION:
+   A través de esta práctica, hemos aprendido la importancia de utilizar múltiples métodos de evaluación para obtener una comprensión completa de la experiencia del usuario. El A/B testing nos mostró cómo las pequeñas variaciones en el diseño pueden tener un impacto     significativo en la usabilidad y la satisfacción del usuario. El eye tracking nos proporcionó información valiosa sobre cómo los usuarios interactúan visualmente con el sitio, lo que es esencial para optimizar el diseño visual y la disposición de la información.
 
 
 
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
+Realizar estas prácticas de diseño de interfaces de usuario (DIU) ha sido una experiencia enriquecedora y valiosa.
+Hemos aprendido nuevos conceptos relacionadas con las etapas cruciales del diseño UX. A buscar las necesidades del usuario y adaptar el diseño a ellas.
+Estas prácticas han proporcionado una experiencia completa y práctica en el campo del diseño de interfaces de usuario. La integración de métodos de investigación de usuarios, creación de personas, prototipado, y el estudio de usabilidad que nos ha permitido desarrollar un proyecto sólido y centrado en el usuario.
 
 
 
