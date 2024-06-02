@@ -137,23 +137,18 @@ Para los patrones de nuestra aplicación hemos hecho uso de los componentes que 
 Además del uso de material design para elementos como son las tarjetas, la introduccion de datos tanto en búsqueda como login y demás hemos creado algunos nosotros mismos como pueden ser la barra de navegación la cual quisimos que contara con un elemento destacado que es el de crear una publicación y los modales que usamos para mostrar la información sobre eventos, competiciones, comunidades...
 
 ![Método UX](img/mockup.png)  3.d Mockup
-----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+A continuacion de muestran las partes más importantes del Mockup
+![Actividades](P3/Actividades.png)
+![Login](P3/Login-1.png.png)
+![Torneos](P3/Torneos.png)
+![Index](P3/Main page.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+Se ha publicado el archivo figma en el repositorio de DIU  de figma y un resumen en las partes posteriores de README
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
-
-Exportación a HTML/Flutter
------
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
@@ -174,8 +169,6 @@ Diseño del experimento
 Resultados y valoración 
 -----
 
-
-
 >> Cambiar por tus resultados
 ![Resultado](img/resultadoET.png)  
 
@@ -185,24 +178,25 @@ Resultados y valoración
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
-----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
-
+Se nos ha asignado analizar la aplicacion de DIU1-loqueteapetezca, que trata sobre juegos de mesa, como nuestra aplicación. El enlace al repositorio es: (https://github.com/DIU1-loqueteapetezca/DIU)
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
+Para esta parte se han seleccionado 4 usuarios reales para el caso A y B:
+Para el caso A se han seleccionado:
+    -User1: Mujer de 23 años de edad que trabaja de higienista y con alguna experiencia con tecnologías.Usa el móvil y el portátil casi a diario, aunque le cuesta encontrar las cosas a veces en las páginas.
+    -User2: Hombre de 20 años que trabaja de peluquero, su formacion con tecnologias es básica. No usa dispositivos electronicos excepto el movil. Le cuesta encontrar las cosas.
+Para el caso B se han seleccionado:
+    -User3: Hombe de 42 años, padre de familia que se dedica a la fotografia. Sabe utlizar las tecnologias más básicas que invlucran su trabajo.
+    -User4: Hombre de 24 años, estudiante ingenieria indormatica y con amplios conocimientos avanzados en el mundo de la tecnología.
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Sara          | M / 23   | Higienista  | Media       | Introvertida | móvil      | A 
+| Angel         | H / 20   | Peluqeuro   | Baja        | Extrovertido | móvil      | A 
+| Carlos        | H / 42   | Fotografo   | Basica      | Emocional    | móvil      | B 
+| Gonzalo       | H / 18   | Estudiante  | Avanzada    | Racional     | móvil      | B 
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
